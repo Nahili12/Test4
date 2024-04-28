@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Table</title>
+    </head>
+    <body>
+        <Table>
+            <thead>
+                <tr>
+                    <th>Number</th>
+                    <th>Name</th>
+                    <th>Grade</th>
+                </tr>
+            </thead>
+        </tbody>
+        <tr>
+            <td>1</td>
+            <td>nahili bogale</td>
+            <th>9</th>
+        </tr>
+        <table>
+    </body>
+</html>
